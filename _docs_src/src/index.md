@@ -6,6 +6,8 @@ Here's some info about using the template.
 
 Don't forget to edit the `mkdocs.yml`. It has all your site config, including the table of contents at the side.
 
+**Don't forget change the `site_url` and `repo_url`, or else your site won't work. **
+
 ### Google site verification
 
 If you don't need, a `google-site-verification` `<meta>` tag, be sure to remove it from `<project root>/_docs_src/custom_theme/main.html`.

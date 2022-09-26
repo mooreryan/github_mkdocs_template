@@ -2,7 +2,7 @@
 
 A template for using [mkdocs](https://www.mkdocs.org/) with GitHub actions to generate a static site.
 
-To get an overview of how to use this template, check out the [main page](TODO) of the example docs site!
+To get an overview of how to use this template, check out the [main page](https://mooreryan.github.io/github_mkdocs_template/) of the example docs site!
 
 ## Install `mkdoks`
 

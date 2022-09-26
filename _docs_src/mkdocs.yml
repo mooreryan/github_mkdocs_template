@@ -1,6 +1,7 @@
 site_name: My Snazzy Site
-site_url: https://example.com
-repo_url: https://github.com/yourname/example
+# TODO: don't forget to change this!
+site_url: https://mooreryan.github.io/github_mkdocs_template/
+repo_url: https://github.com/mooreryan/github_mkdocs_template
 edit_uri: edit/main/_docs_src/src
 site_description: Write an overview sentence for your site here.
 site_author: John S. Doe
