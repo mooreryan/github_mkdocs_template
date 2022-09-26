@@ -1,0 +1,27 @@
+site_name: My Snazzy Site
+site_url: https://example.com
+repo_url: https://github.com/yourname/example
+edit_uri: edit/main/_docs_src/src
+site_description: Write an overview sentence for your site here.
+site_author: John S. Doe
+nav:
+  - My Snazzy Site: index.md
+  - First section:
+      - Getting Started: getting-started.md
+      - Lots of examples: examples.md
+  - Another section:
+      - Overview: another-overview.md
+      - Cool stuff: cool-stuff.md
+theme:
+  name: readthedocs
+  custom_dir: custom_theme
+  # If you need code highlighting set this to true.
+  highlightjs: true
+  # Pick whichever languages you need to highlight.
+  hljs_languages:
+    - ocaml
+    - python
+markdown_extensions:
+  - meta
+docs_dir: src
+site_dir: ../_docs
