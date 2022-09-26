@@ -4,6 +4,10 @@ Here's some info about using the template.
 
 ## Site config
 
+Make sure to set your site to build from the `/docs` folder on the `gh-pages` branch. You can do that on the settings page: `Settings -> Pages -> Build & Deployment -> Branch`.
+
+### `mkdocs.yml`
+
 Don't forget to edit the `mkdocs.yml`. It has all your site config, including the table of contents at the side.
 
 **Don't forget change the `site_url` and `repo_url`, or else your site won't work. **
